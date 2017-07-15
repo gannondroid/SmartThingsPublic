@@ -101,4 +101,3 @@ def setLevel(val){
 def refresh() {
     log.info "refresh"
 }
-
